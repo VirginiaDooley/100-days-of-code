@@ -80,3 +80,19 @@
 **Thoughts**: I may have to call in reinforcements on this one. I've checked my code ten times over and don't know where I'm off.
 
 **Link to work**: [Sinatra ActiveRecord CRUD](https://github.com/VirginiaDooley/sinatra-ar-crud-lab-online-web-pt-092418)
+
+### Day 11: January 17, 2019
+
+**Today's Progress**: I finally finished the Sinatra CRUD Lab. The reason I got stuck was due to a syntax error where I included an @ in an iteration on index.erb where it shouldn't exist. [Tweet](https://twitter.com/vcdooley/status/1085848543913562117)
+
+**Thoughts**: Victory is mine! A good night's sleep made all the difference.
+
+**Link to work**: [Sinatra ActiveRecord CRUD](https://github.com/VirginiaDooley/sinatra-ar-crud-lab-online-web-pt-092418)
+
+### Day 12: January 18, 2019
+
+**Today's Progress**: [Tweet]()
+
+**Thoughts**:
+
+**Link to work**: [Lab Name](Repo Link)

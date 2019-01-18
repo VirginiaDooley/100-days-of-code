@@ -91,8 +91,8 @@
 
 ### Day 12: January 18, 2019
 
-**Today's Progress**: [Tweet]()
+**Today's Progress**: I learned about helper methods and first steps of user authentication. [Tweet](https://twitter.com/vcdooley/status/1086226277936312320)
 
-**Thoughts**:
+**Thoughts**: !! needed some research and it turns out that a redirect can essentially stop an if statement from going further (hence not needing an else). I think months ago, my solution to this would have looked much longer and definitely not DRY. Progress! 
 
-**Link to work**: [Lab Name](Repo Link)
+**Link to work**: [Sinatra Sessions Lab- User Logins](https://github.com/learn-co-students/sinatra-logging-in-and-out-online-web-pt-092418/pull/1/commits/75589b53ea40ed59639a5afaa213aff71f3db5a1)

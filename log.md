@@ -93,6 +93,14 @@
 
 **Today's Progress**: I learned about helper methods and first steps of user authentication. [Tweet](https://twitter.com/vcdooley/status/1086226277936312320)
 
-**Thoughts**: !! needed some research and it turns out that a redirect can essentially stop an if statement from going further (hence not needing an else). I think months ago, my solution to this would have looked much longer and definitely not DRY. Progress! 
+**Thoughts**: !! needed some research and it turns out that a redirect can essentially stop an if statement from going further (hence not needing an else). I think months ago, my solution to this would have looked much longer and definitely not DRY. Progress!
 
 **Link to work**: [Sinatra Sessions Lab- User Logins](https://github.com/learn-co-students/sinatra-logging-in-and-out-online-web-pt-092418/pull/1/commits/75589b53ea40ed59639a5afaa213aff71f3db5a1)
+
+### Day 13: January 19, 2019
+
+**Today's Progress**: This lab was pretty straightforward practice in Sinatra CRUD and Restful Routes. I did have to research how to iterate and display links which I haven't done since the Web Scraper/CLI Project [Tweet](https://twitter.com/vcdooley/status/1086630625916919808)
+
+**Thoughts**: I completely over thought the complexity of displaying links - a good reminder to test the simplest code first.
+
+**Link to work**: [Sinatra RESTful Routes Lab]( https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)

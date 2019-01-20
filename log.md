@@ -104,3 +104,11 @@
 **Thoughts**: I completely over thought the complexity of displaying links - a good reminder to test the simplest code first.
 
 **Link to work**: [Sinatra RESTful Routes Lab]( https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)
+
+### Day 14: January 20, 2019
+
+**Today's Progress**: I started Sinatra Complex Forms Associations today but plan to finish it over the course of a couple days and review video lectures in between. Among all that I've learned this week, it's the importance of taking breaks to increase efficiency.  [Tweet](https://twitter.com/vcdooley/status/1087087410696151041)
+
+**Thoughts**: Having run a Shopify store in the past, I'm pretty excited to see the evolution of e-commerce MVC. The experience of managing CRMs and online shops makes these labs easier to get through and absorb newer concepts.  
+
+**Link to work**: [Sinatra Complex Forms Associations](https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)

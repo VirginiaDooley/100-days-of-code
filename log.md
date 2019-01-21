@@ -112,3 +112,11 @@
 **Thoughts**: Having run a Shopify store in the past, I'm pretty excited to see the evolution of e-commerce MVC. The experience of managing CRMs and online shops makes these labs easier to get through and absorb newer concepts.  
 
 **Link to work**: [Sinatra Complex Forms Associations](https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)
+
+### Day 15: January 21, 2019
+
+**Today's Progress**: I completed the MVC for half of the app and now onto the next. Since I've started Flatiron Labs, I've been focused on testing and submitting but haven't been great about git commits and demonstrating progress. That changes today! [Tweet](hhttps://twitter.com/vcdooley/status/1087414497906700293)
+
+**Thoughts**: Our specs for the Sinatra final project were released today and I'm excited to get my hands dirty with some original code!   
+
+**Link to work**: [Sinatra Complex Forms Associations](https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)

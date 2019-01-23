@@ -115,8 +115,24 @@
 
 ### Day 15: January 21, 2019
 
-**Today's Progress**: I completed the MVC for half of the app and now onto the next. Since I've started Flatiron Labs, I've been focused on testing and submitting but haven't been great about git commits and demonstrating progress. That changes today! [Tweet](hhttps://twitter.com/vcdooley/status/1087414497906700293)
+**Today's Progress**: I completed the MVC for half of the app and now onto the next. Since I've started Flatiron Labs, I've been focused on testing and submitting but haven't been great about git commits and demonstrating progress. That changes today! [Tweet](https://twitter.com/vcdooley/status/1087414497906700293)
 
 **Thoughts**: Our specs for the Sinatra final project were released today and I'm excited to get my hands dirty with some original code!   
 
 **Link to work**: [Sinatra Complex Forms Associations](https://github.com/VirginiaDooley/sinatra-restful-routes-lab-online-web-pt-092418)
+
+### Day 16: January 22, 2019
+
+**Today's Progress**: I started building my app for my final Sinatra project using ActiveRecord. I used the corneal gem to set up the initial scaffolding and environment and made my edits from there. [Tweet](https://twitter.com/vcdooley/status/1087414497906700293)
+
+**Thoughts**: I went to codebar this evening to get help debugging as needed, but I didn't run into any major issues. In the end, I used most of the time to build out the User model. I'm so grateful to have the lifeline to codebar mentors when I get stuck.   
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 17: January 23, 2019
+
+**Today's Progress**: I completed the User model and controllers and made it half way through my Actions model and controllers as well as worked on a few views to complete User registration and login. [Tweet](https://twitter.com/vcdooley/status/1088129475848613894)
+
+**Thoughts**: I've been committing often but learned today that I am supposed to use the present tense in my commits. I'll remember that going forward, but will keep to the same tense for the remainder of this project.  
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)

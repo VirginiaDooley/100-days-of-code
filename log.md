@@ -136,3 +136,27 @@
 **Thoughts**: I've been committing often but learned today that I am supposed to use the present tense in my commits. I'll remember that going forward, but will keep to the same tense for the remainder of this project.  
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 18: January 24, 2019
+
+**Today's Progress**: After completing my basic CRUD routes, I added a bit of styling to make things pretty. [Tweet](https://twitter.com/vcdooley/status/1088564279291330560)
+
+**Thoughts**: Every now and then I need to switch gears and focus on design. The quick shift to CSS was a therapeutic break. 
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 19: January 25, 2019
+
+**Today's Progress**: I'm completely stuck on model association and I'm not sure why. However, I've managed to fine tune my user flow on other routes. [Tweet](https://twitter.com/vcdooley/status/1088831801534152704)
+
+**Thoughts**: I've clearly missed something along the way. I stopped to map my models out once again to confirm my understanding. Back at it tomorrow with fresh eyes.
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 20: January 26, 2019
+
+**Today's Progress**: I finally fixed the associations between my models. It turns out I was trying to associate models with a foreign key after creation not realising this was already done and I was calling it incorrectly in my views. [Tweet](https://twitter.com/vcdooley/status/1089168516681478144)
+
+**Thoughts**: I need to take more time reading through the resources provided in my labs. I missed a small but crucial element of associations and will learn from this.   
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)

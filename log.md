@@ -141,7 +141,7 @@
 
 **Today's Progress**: After completing my basic CRUD routes, I added a bit of styling to make things pretty. [Tweet](https://twitter.com/vcdooley/status/1088564279291330560)
 
-**Thoughts**: Every now and then I need to switch gears and focus on design. The quick shift to CSS was a therapeutic break. 
+**Thoughts**: Every now and then I need to switch gears and focus on design. The quick shift to CSS was a therapeutic break.
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
 
@@ -158,5 +158,23 @@
 **Today's Progress**: I finally fixed the associations between my models. It turns out I was trying to associate models with a foreign key after creation not realising this was already done and I was calling it incorrectly in my views. [Tweet](https://twitter.com/vcdooley/status/1089168516681478144)
 
 **Thoughts**: I need to take more time reading through the resources provided in my labs. I missed a small but crucial element of associations and will learn from this.   
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+
+### Day 21: January 27, 2019
+
+**Today's Progress**: I worked on my update routes today but I'm still seeing some association errors that I thought were resolved. I need to investigate further with fresh eyes. [Tweet](https://twitter.com/vcdooley/status/1089616131994935296)
+
+**Thoughts**: I might have an error in my tables. I'm going to watch a few videos and start fresh.
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+
+### Day 22: January 28, 2019
+
+**Today's Progress**: I fixed my routes and forms to be able to show, edit and update actions dynamically. Next, onto delete routes and forms. [Tweet](https://twitter.com/vcdooley/status/1089868875410407424)
+
+**Thoughts**: I deleted my databases and started fresh once I realised there was an error in my tables! My foreign key was a different data type than I wanted and I had dozens of incorrect records. I'm feeling pretty pumped that I figured this out and resolved several related bugs on my own.
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)

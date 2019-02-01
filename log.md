@@ -178,3 +178,27 @@
 **Thoughts**: I deleted my databases and started fresh once I realised there was an error in my tables! My foreign key was a different data type than I wanted and I had dozens of incorrect records. I'm feeling pretty pumped that I figured this out and resolved several related bugs on my own.
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 23: January 29, 2019
+
+**Today's Progress**: Today, I finalised all my CRUD routes for my Sinatra app. I didn't add the ability to edit user password but will look into that as time allows.  [Tweet](https://twitter.com/vcdooley/status/1090319096779022338)
+
+**Thoughts**: 
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 24: January 30, 2019
+
+**Today's Progress**: I added bcrypt validations and refactored related routes in my controllers. I also added a flash message which took me a while because it turns out the gem I originally tried was down. I ended up using rack-flash3 which was easy to implement. [Tweet](https://twitter.com/vcdooley/status/1090560246127439872)
+
+**Thoughts**: I love using helpers, it makes my code much cleaner.
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 25: January 31, 2019
+
+**Today's Progress**: Today, I added bootstrap styling to forms and revamped the home page with some very basic nav. I am going to research how to present the user with certain options if logged_in? etc. [Tweet](https://twitter.com/vcdooley/status/1090560246127439872)
+
+**Thoughts**: I've been using bootstrap for years but never really took the time to read through the documentation. Understanding the grid system really is essential to unleashing all the power of bootstrap!
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)

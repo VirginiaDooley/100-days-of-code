@@ -183,7 +183,7 @@
 
 **Today's Progress**: Today, I finalised all my CRUD routes for my Sinatra app. I didn't add the ability to edit user password but will look into that as time allows.  [Tweet](https://twitter.com/vcdooley/status/1090319096779022338)
 
-**Thoughts**: 
+**Thoughts**:
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
 
@@ -200,5 +200,21 @@
 **Today's Progress**: Today, I added bootstrap styling to forms and revamped the home page with some very basic nav. I am going to research how to present the user with certain options if logged_in? etc. [Tweet](https://twitter.com/vcdooley/status/1090560246127439872)
 
 **Thoughts**: I've been using bootstrap for years but never really took the time to read through the documentation. Understanding the grid system really is essential to unleashing all the power of bootstrap!
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 26: February 1, 2019
+
+**Today's Progress**: I worked on navigation and spent the day testing my routes. I've spotted a few bugs that need attention before I submit.  [Tweet](https://twitter.com/vcdooley/status/1091340296158367746)
+
+**Thoughts**: There are still a few things that are unclear. I need to research redirect vs direct erb rendering and my flash messages are only appearing in some views.
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 27: February 2, 2019
+
+**Today's Progress**: It's complete! My first full app from 'scratch'.[Tweet](https://twitter.com/vcdooley/status/1091737915980423168)
+
+**Thoughts**: I worked with my pair partner today which was super helpful for both of us. We reinforced our understanding of certain terms and functions.
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)

@@ -218,3 +218,43 @@
 **Thoughts**: I worked with my pair partner today which was super helpful for both of us. We reinforced our understanding of certain terms and functions.
 
 **Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
+
+### Day 28: February 3, 2019
+
+**Today's Progress**: I returned to complete unfinished Sinatra nested forms lab that I was previously stuck on. [Tweet](https://twitter.com/vcdooley/status/1092417411767246848)
+
+**Thoughts**: The practice of building a Sinatra app from scratch enhanced my understanding of nested forms and I was able to see the solution clearly.
+
+**Link to work**: [Sinatra Nested Forms Lab]()
+
+### Day 29: February 4, 2019
+
+**Today's Progress**: I returned to complete unfinished Sinatra complex associations lab that I was previously stuck on before building my Sinatra app from scratch. [Tweet](https://twitter.com/vcdooley/status/1092427749590032389)
+
+**Thoughts**: After this lab, I can see some routes in my Sinatra app that could be refactored after my review.
+
+**Link to work**: [Sinatra Complex Associations Lab](https://github.com/VirginiaDooley/sinatra-complex-forms-associations-online-web-pt-092418)
+
+### Day 30: February 5, 2019
+
+**Today's Progress**:  [Tweet](https://twitter.com/vcdooley/status/1092427749590032389)
+
+**Thoughts**:
+
+**Link to work**: [Sinatra Complex Associations Lab]()
+
+### Day 31: February 6, 2019
+
+**Today's Progress**: I made it to Rails! [Tweet](https://twitter.com/vcdooley/status/1092732164117090304)
+
+**Thoughts**: So far so good, very similar to Sinatra with some clear differences.
+
+**Link to work**: [ActiveRecord Models and Rails Lab](https://github.com/VirginiaDooley/rails-activerecord-model-rails-lab-online-web-pt-092418)
+
+### Day 32: February 7, 2019
+
+**Today's Progress**: I had my Sinatra app review last night so today I worked on refactoring my routes for DRY-ness and clarity.  [Tweet](https://twitter.com/vcdooley/status/1093446525064220672)
+
+**Thoughts**: Today was a busy day with meetings and coding events so I was a bit tired and nervous and couldn't clearly explain how sessions worked in my routes and helpers. Oh my! Back to review with a clear head. For the next review, I need to keep my schedule open and find a quieter place to work. 
+
+**Link to work**: [Sinatra Save Earth App](https://github.com/VirginiaDooley/sinatra-save-earth-app)
